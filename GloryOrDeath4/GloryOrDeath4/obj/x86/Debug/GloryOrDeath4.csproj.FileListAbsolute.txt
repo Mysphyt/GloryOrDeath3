@@ -1,0 +1,11 @@
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\GloryOrDeath4.exe
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\GloryOrDeath4.pdb
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\obj\x86\Debug\GloryOrDeath4.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\obj\x86\Debug\GloryOrDeath4.exe
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\obj\x86\Debug\GloryOrDeath4.pdb
+C:\Users\Aaron\Downloads\Documents\GitHub\GloryOrDeath3\GloryOrDeath4\GloryOrDeath4\bin\WindowsGL\Debug\Content\default.png
